@@ -1,9 +1,12 @@
 # Multiple-linear-regression-Excel-based-project-
 Analyzing Factors Affecting Academic Performance using linear regression
-#Project Overview
+
+#Project Overview:
+
 In this project, I analyzed a dataset of 1,000 students to predict their Performance Index based on various features.
 
-Model Details
+Model Details:
+
 Algorithm Used: Multiple Linear Regression
 
 Key Techniques: Feature Engineering, Data Preprocessing, Model Evaluation
